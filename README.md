@@ -7,6 +7,7 @@
       * Android : https://play.google.com/store/apps/details?id=host.exp.exponent
       * iOS : https://apps.apple.com/us/app/expo-client/id982107779  
  3. Clone git repository in your machine. Execute **git clone https://github.com/gayatrisarnobat-gsl/Chess.git**
+ 4. **cd Chess**
  4. Open Terminal. Add dependencies by executing **npm install**.
  5. Connect your device.
  6. Execute **expo start**
